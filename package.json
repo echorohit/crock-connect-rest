@@ -15,5 +15,17 @@
   "bugs": {
     "url": "https://github.com/echorohit/crock-connect-rest/issues"
   },
-  "homepage": "https://github.com/echorohit/crock-connect-rest#readme"
+  "homepage": "https://github.com/echorohit/crock-connect-rest#readme",
+  "dependencies": {
+    "debug": "^2.2.0",
+    "request": "^2.67.0"
+  },
+  "devDependencies": {
+    "blue-tape": "^0.1.10",
+    "bluebird": "^3.0.5",
+    "eslint": "^1.10.1",
+    "express-session": "^1.12.1",
+    "istanbul": "^0.4.0",
+    "tape": "^4.2.2"
+  }
 }
