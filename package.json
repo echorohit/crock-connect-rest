@@ -1,0 +1,19 @@
+{
+  "name": "crock-connect-redis",
+  "version": "1.0.0",
+  "description": "A connect based module for Express session adapter which will work with REST storage",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/echorohit/crock-connect-rest.git"
+  },
+  "author": "echorohit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/echorohit/crock-connect-rest/issues"
+  },
+  "homepage": "https://github.com/echorohit/crock-connect-rest#readme"
+}
